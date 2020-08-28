@@ -15,17 +15,16 @@ This web app is a part of MSA project3 submission. The app is aim to connect eve
     9am - go to class
     12pm -  have lunch at IH
     1pm - have another class
-    4pm - flexible slot for groceries shopping, clubs & activities
+    4pm - flexible slot for rest, social network, groceries shopping, clubs & activities.
     6pm - have dinner at IH and catch up with friends sitting on the same table on the plan for weekends.
     8pm - play pools/table tennis in IH Games room with friends
     9pm - study/do homework
     12am - shower and sleep
 7. Hopes and Fears:
-    Hopes - 
-    Fears - 
+    I've just arrived in Australia a week ago. I'm not very familiar with the place and how things work yet. Luckily, I've done some online research about university, Sydney, and the place to stay prior coming here. Getting an offer to stay at IH UNSW during my study is such a good deal to me as neccessary facilities are all available, every meal is catered and I can meet bunch of students from around the world! This make my life a lot easier. However, important information and activities are usually announced on Whatapps and Facebook group (sometimes I know from friends updated me when we're having dinner) which make it hard to scroll up when there're too many chats going on. I hope there's a combined platform or mobile app that I can access and stay updated on the events. It would be great if I can cross check other residents' name as well because I'm bad at rembering people's name and it's so awkward when I have to ask them multiple times.
+    
 
 # Story-boarding + App funtionality
-
+- 
 # App extensibility
-
-# 
+- 
