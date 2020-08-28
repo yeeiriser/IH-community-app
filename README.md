@@ -25,6 +25,8 @@ This web app is a part of MSA project3 submission. The app is aim to connect eve
     
 
 # Story-boarding + App funtionality
-- 
+- filter only current students
+- zoom in to enlarge pic
 # App extensibility
-- 
+- Current limitation: Due to Facebook's privacy policy, we're not to be able to import picture from Instagram through hashtag, so I integrated a direct image upload using Microsoft Flow to trigger the automation from Power Apps into Sharepoint when a user upload an image into the app through Home page. However, after multiple attempt from different tutorials/methods, I can't make it work at the moment for some reasons, but this is the idea.
+- The app can be scaled to cover accommodation office for communication such as parcel receive, fire drill, check-in/out, etc. This app can also implement on other student accommodations/communities as well.
