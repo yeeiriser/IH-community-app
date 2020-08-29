@@ -27,12 +27,9 @@ This web app is a part of MSA project3 submission. The app is aim to connect eve
 # App funtionality
 - <b>Home page:</b> Users will be presented with picture gallery featuring past events and what's happening around the college. They can also share their experience by uploading the picture from local file to the gallery (the picture will go into Sharepoint first and pulled by Power Apps to be presented on the gallery). Below the gallery is a short-form text pulled from official Twitter account, but because we don't have official Twitter account, it is now linked to my personal account's API at the moment. Ideally, I want to pull picture form Instagram; however, Facebook & Instagram connectors were just depreciated for Power Apps due to disabling Lagacy API (refer to: https://docs.microsoft.com/en-us/connectors/instagram/).
 At the bottom of the page features a link to official social networks where users can stay connected based on their preffered platforms. Official social networks are handled by Marketing Directors elected as part of Residents' society (RESOC). 
-
 With these funtionalities on Home page, users can get a sense of belonging and potentially encourage more residents to stay active and participate on events as the “Collegiate Community” is only worthwhile if you get involved and participate in the activities available.
 
 - <b>Events page:</b> Users can stay updated with what activities have been scheduled on a calendar linked to Outlook account. Users will have to select the 'IH events' from the dropdown selector as I couldn't completely delete or rename my personal 'Calendar' from Outlook. I've added some test events during Sep-Nov 2020.
-
-
 Currently, we rely on Facebook events page, Whatsapp group chat, and physical posters to announce in-house events. With this functionality, users can check them on-demand on their mobile phone and stay updated if there's any change e.g. postpone, cancel without flooding the Whatsapp group chat causing the message to be lost.
 
 - <b>Residents:</b> Currently, resident names, details, and photos are collected before arrival. It is feasible to pull those details from the university's accommodation office and made available on the app for residents to access.
