@@ -32,6 +32,7 @@ With these funtionalities on Home page, users can get a sense of belonging and p
 
 - <b>Events page:</b> Users can stay updated with what activities have been scheduled on a calendar linked to Outlook account. Users will have to select the 'IH events' from the dropdown selector as I couldn't completely delete or rename my personal 'Calendar' from Outlook. I've added some test events during Sep-Nov 2020.
 
+
 Currently, we rely on Facebook events page, Whatsapp group chat, and physical posters to announce in-house events. With this functionality, users can check them on-demand on their mobile phone and stay updated if there's any change e.g. postpone, cancel without flooding the Whatsapp group chat causing the message to be lost.
 
 - <b>Residents:</b> Currently, resident names, details, and photos are collected before arrival. It is feasible to pull those details from the university's accommodation office and made available on the app for residents to access.
