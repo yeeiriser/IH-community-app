@@ -1,7 +1,7 @@
 # IH-community-app
 International House (IH) is one of the on-campus student accommodations at UNSW, Sydney. The accummodation has been operating since 1968 established by local various Rotary Clubs with a principle to promote “International Understanding” and provide opportunities for local and overseas students to exchange ideas, share their cultural heritage and expand their knowledge.
 
-This web app is a part of MSA project3 submission. The app is aim to connect every resident including ex-residents from IH UNSW and act as an aggregator platform for the useful information residents may need during their stay.
+This web app is a part of MSA project3 submission. The app is aim to connect every resident including ex-residents from IH UNSW and act as an aggregator platform to access any useful information residents may need during their stay.
 
 # Customer Persona
 1. Name: Daniel Wang (23)
@@ -33,7 +33,7 @@ With these funtionalities on Home page, users can get a sense of belonging and p
 Currently, we rely on Facebook events page, Whatsapp group chat, and physical posters to announce in-house events. With this functionality, users can check them on-demand on their mobile phone and stay updated if there's any change e.g. postpone, cancel without flooding the Whatsapp group chat causing the message to be lost.
 
 - <b>Residents:</b> Currently, resident names, details, and photos are collected before arrival. It is feasible to pull those details from the university's accommodation office and made available on the app for residents to access.
-New residents will benefit tremendously from this feature to recognize and get used to their neighbors and find commonalities such as residents who studies the same major. Ex-residents details can still be retained for networking purposes. Filter is added, so users can select the result based on their needs.
+New residents will benefit tremendously from this feature to recognize and get used to their neighbors and find commonalities such as residents who studies the same major. Ex-residents details can still be retained for networking purposes. Filter is added based on user's interest on status of residents, i.e., current or alumni. Furthermore, Users can search name, field of study, and country of origin through searchbox.
 
 - <b>Bookings:</b> Currentky, all the bokkings for facilities are done through a free shared timetable website, and people will keep asking in the group chat on what's the url to the booking page. I've integrated buttons which redirect to the url on browser (because an in-app browser isn't supported at the moment).
 
